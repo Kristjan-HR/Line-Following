@@ -9,8 +9,8 @@ A small `Makefile` is included in the repository.
 - Run **`make clean`** to remove the binary.
 
 ## License
-The project is released under the MIT license. See the `[LICENSE](LICENSE)` file.  
-It incorporates the **TCS34725 driver**, which is also MIT‑licensed. See the `[LICENCE‑DRIVER](LICENCE-DRIVER)` file for the driver's full license text.
+The project is released under the MIT license. See the [LICENSE](LICENSE) file.  
+It incorporates the **TCS34725 driver**, which is also MIT‑licensed. See the [LICENSE‑DRIVER](LICENSE-DRIVER) file for the driver's full license text.
 
 ## Attribution
 The driver was written by Marcel Kyas.  
