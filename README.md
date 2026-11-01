@@ -2,6 +2,14 @@
 
 Implementation of the Lab 10 program for the *Cyber‑Physical Systems* course at Reykjavík University.
 
+## Prerequisites
+The code relies on several development tools and libraries. Install the required packages before building:
+
+```bash
+sudo apt update
+sudo apt install build-essential liblgpio-dev i2c-tools libi2c-dev libspi-dev
+```
+
 ## Build
 A small `Makefile` is included in the repository.
 
